@@ -32,7 +32,7 @@ te da pereza?
 pues ejecuta 
 
 ```bot
-git clone https://github.com/Eliasar54/Bot-de-Telegram-ia/instalar_bot.sh
+git clone https://github.com/Eliasar54/Bot-de-Telegram-ia
 ```
 
 ```bot
