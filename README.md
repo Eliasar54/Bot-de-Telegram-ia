@@ -27,3 +27,18 @@ pip install telepot requests colorama
 ```
 python Bot.py
 ```
+te da pereza?
+
+pues ejecuta 
+
+```bot
+git clone https://github.com/Eliasar54/Bot-de-Telegram-ia/instalar_bot.sh
+```
+
+```bot
+chmod +x instalar_bot.sh
+```
+
+```bot
+./instalar_bot.sh
+```
