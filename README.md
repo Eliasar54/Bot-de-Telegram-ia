@@ -25,5 +25,5 @@ pip install telepot requests colorama
 ```
 
 ```
-python bot.py
-``
+python Bot.py
+```
