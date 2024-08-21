@@ -1,7 +1,7 @@
 # Bot-de-Telegram-ia
 Bot con inteligencia artificial de Telegram fasilidad de isatalision
 
-##instalacion
+`instalacion`
 
 ```bot
 pkg update && pkg upgrade -y
